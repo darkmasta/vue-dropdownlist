@@ -1,4 +1,4 @@
-# How to Get Started with the Syncfusion Vue DropDownList
+# How to Get Started with the Vue DropDownList of Syncfusion
 
 Learn how easily you can create and configure the Syncfusion Vue DropDownList using Vue CLI. You will see how to populate JSON data and remote data sources to the DropDownList, how to sort the data source, and how to set a custom height and width for the DropDownList pop-up. 
 
